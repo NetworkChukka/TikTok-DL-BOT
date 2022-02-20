@@ -33,10 +33,11 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 
 def start_handler(update, context):
     update.message.reply_sticker('CAACAgUAAxkBAAED9kRiDq_GkOHuRHPeVv4IRhsvy4NtbwACqQQAAncUyFftN80YUiyXnyME')
-
+    update.message.reply_text('[🏖 TikTok Download bot 🏖](https://github.com/NetworkChukka/TikTok-DL-BOT)\n\n[Anonymous Devalopers </> 🇱🇰](https://t.me/ehivpnssh) \n [❤RESPECT MY MASTER❤](https://t.me/networkchukka)',parse_mode=_ParseMode)
+    update.message.reply_text(' SEND YOUR TIKTOK LINK IT WAS EASY \n ඔයාගේ ටික්ටොක් ලින්ක් එක එවන්න ඒක ලේසියි \n  FOR MORE DETAILS /about',parse_mode=_ParseMode)
 def about_handler(update, context):
-    update.message.reply_sticker('CAACAgUAAxkBAAED9kZiDq_LFrib38c7DYu3jNz3ebsolgACJAUAAuTb4FdKtjtZGQ2ukiME')
-    update.message.reply_text('[🏖 TikTok Download API 🏖](https://github.com/Single-Developers/API/blob/main/tiktok/Note.md)\n\n[Anonymous Devalopers </> 🇱🇰](https://t.me/ehivpnssh)',parse_mode=_ParseMode)
+    update.message.reply_sticker('CAACAgUAAxkBAAED9kRiDq_GkOHuRHPeVv4IRhsvy4NtbwACqQQAAncUyFftN80YUiyXnyME')
+    update.message.reply_text('[🏖 GITHUB REPO 🏖](https://github.com/NetworkChukka/TikTok-DL-BOT)\n\n[Anonymous Devalopers </> 🇱🇰](https://t.me/ehivpnssh) \n\n THANK YOU FOR SINGLE DEVALOPERS API ',parse_mode=_ParseMode)
     
 # ◇─────────────────────────────────────────────────────────────────────────────────────◇
 
@@ -58,7 +59,7 @@ def Download_Video(Link,update, context):
        print('Download Links Generated \n\n\n'+str(req)+'\n\n\n')
     except:
         print('Download Links Generate Error !!!')
-        status_msg.edit_text('⁉️ TikTok Downloader API Error !!! Report To Developer : @SL_Developers')
+        status_msg.edit_text('⁉️ TikTok Downloader API Error !!! Report To Developer : @networkchukka')
         status_sticker.delete()
         return
     
@@ -66,8 +67,8 @@ def Download_Video(Link,update, context):
 
 ✅ Successfully Downloaded {} Video 🔰
 
-🔰 Powerd by : [🏖 TikTok Download API 🏖](https://github.com/Single-Developers/API/blob/main/tiktok/Note.md)
-[🔥 Single Developers </> ](https://t.me/SingleDevelopers) Corporation ©️
+🔰 Powerd by : [🏖 TikTok Download API 🏖](https://github.com/Single-Developers/API)
+[🔥 ANONYMOUS DEVALOPERS </> ](https://t.me/ehivpnssh) 
 
 ◇───────────────◇"""
     
