@@ -3,14 +3,14 @@
 🏖  A Telegram BOT To TikTok Download TikTok Vieos - Example For [TikTok API](https://github.com/Single-Developers/API/blob/main/tiktok/Note.md) 🏖
 
 
-![🏖 TikTok Download URL Generator 🏖](https://telegra.ph/file/05ce45e35c9c93c8d001f.jpg)
+![🏖 TikTok Download URL Generator 🏖](https://telegra.ph/file/513e64b84dd5213903164.png)
 
 ## 🚀 Deploy on Heroku 
 
 <p><a href="https://heroku.com/deploy?template=https://github.com/NetworkChukka/TikTok-DL-BOT"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku"/></a></p>
 
-🚧 Telegram : [🔥 SL Developers </> 🇱🇰](https://t.me/SL_Developers)<br>
-🙆‍♂️ Demo: [🎧 MUSIC ҒIΠDΣR BOT 🎵](https://t.me/The_Shazam_BOT)
+🚧 Telegram : [🔥 ANONYMOUS DEVALOPERS  🇱🇰](https://t.me/ehivpnssh)<br>
+🙆‍♂️ Demo: [🎧 Anonymous-Tiktok-DL bot 🎵](https://t.me/anonytikbot)
 <br>
 <br>
 
@@ -33,14 +33,14 @@
 <br>
 
 ## 🎯 Credits and Other
-- [Me](https://github.com/Malith-Rukshan) For This Project ✌️
+- [Me](https://github.com/NetworkChukka) For This Project ✌️
 - [Single Developers </>](https://github.com/Single-Developers) For TikTok API 🏖
 
 <br>
 
 ## ☘️ Telegram
 
-[🔥 SL Developers </> 🇱🇰](https://t.me/SL_Developers)<br>
+[🔥 ANONYMOUS DEVALOPERS 🇱🇰](https://t.me/ehivpnssh)<br>
 [🔥 Single Developers </> ](https://t.me/SingleDevelopers) Corporation ©️
 
 ##
