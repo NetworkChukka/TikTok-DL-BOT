@@ -32,11 +32,11 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 # ◇─────────────────────────────────────────────────────────────────────────────────────◇
 
 def start_handler(update, context):
-    update.message.reply_sticker('CAACAgUAAxkBAAED9kRiDq_GkOHuRHPeVv4IRhsvy4NtbwACqQQAAncUyFftN80YUiyXnyME')
     update.message.reply_text('[🏖 TikTok Download bot 🏖](https://github.com/NetworkChukka/TikTok-DL-BOT)\n\n[Anonymous Devalopers </> 🇱🇰](https://t.me/ehivpnssh) \n [❤RESPECT MY MASTER❤](https://t.me/networkchukka)',parse_mode=_ParseMode)
+    update.message.reply_sticker('CAACAgIAAxkBAAEEyOFiieuJYGSQY9dC-wvkecW4-5LyvwAC1AoAAuhO8Uh29Jn8lOf2iiQE')
     update.message.reply_text(' SEND YOUR TIKTOK LINK IT WAS EASY \n ඔයාගේ ටික්ටොක් ලින්ක් එක එවන්න ඒක ලේසියි \n  FOR MORE DETAILS /about',parse_mode=_ParseMode)
 def about_handler(update, context):
-    update.message.reply_sticker('CAACAgUAAxkBAAED9kRiDq_GkOHuRHPeVv4IRhsvy4NtbwACqQQAAncUyFftN80YUiyXnyME')
+    update.message.reply_sticker('CAACAgIAAxkBAAEEyONiieuu2qxx3LDoulmlzpTuFUI7IAACVgEAAhZCawpxwIcFYMakhSQE')
     update.message.reply_text('[🏖 GITHUB REPO 🏖](https://github.com/NetworkChukka/TikTok-DL-BOT)\n\n[Anonymous Devalopers </> 🇱🇰](https://t.me/ehivpnssh) \n\n THANK YOU FOR SINGLE DEVALOPERS API ',parse_mode=_ParseMode)
     
 # ◇─────────────────────────────────────────────────────────────────────────────────────◇
@@ -49,7 +49,7 @@ def Download_Video(Link,update, context):
     watermark=None
 
     status_msg=message.reply_text('🚀 DOᗯᑎᒪOᗩᗪIᑎG Video TO Sᕮᖇᐯᕮᖇ ....')
-    status_sticker=message.reply_sticker('CAACAgUAAxkBAAED9jhiDqYeGjENlCjftByz0au6n4YAASEAAnUEAALpa8lXL9cvxeTK-2AjBA')
+    status_sticker=message.reply_sticker('CAACAgIAAxkBAAEEyOViievWm_t-hsYevrQB0aUPsEzZ4wACugADMNSdEYTXxIjEUGdWJAQ')
 
     # Getting Download Links Using API
     try:
