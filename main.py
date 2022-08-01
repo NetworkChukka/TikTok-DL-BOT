@@ -13,7 +13,7 @@ import logging
 
 
 # TikTok Downloader API
-API = 'https://host.single-developers.software/tiktok?url='
+API = 'https://api.single-developers.software/tiktok?url='
 
 # Your BOT Token
 BOT_TOKEN = os.getenv("BOT_TOKEN")
