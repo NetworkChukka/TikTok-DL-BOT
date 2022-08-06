@@ -9,7 +9,7 @@
 
 <p><a href="https://heroku.com/deploy?template=https://github.com/NetworkChukka/TikTok-DL-BOT"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku"/></a></p>
 
-🚧 Telegram : [🔥 ANONYMOUS DEVALOPERS  🇱🇰](https://t.me/ehivpnssh)<br>
+🚧 Telegram : [🔥 ANONYMOUS DEVALOPERS  🇱🇰](https://t.me/anonymousbotz)<br>
 🙆‍♂️ Demo: [🎧 Anonymous-Tiktok-DL bot 🎵](https://t.me/anonytikbot)
 <br>
 <br>
@@ -34,13 +34,13 @@
 
 ## 🎯 Credits and Other
 - [Me](https://github.com/NetworkChukka) For This Project ✌️
-- [Single Developers </>](https://github.com/Single-Developers) For TikTok API 🏖
+- [SD BOTS </>](https://docs.sdbots.tk/reference/api-reference/tiktok) For TikTok API 🏖
 
 <br>
 
 ## ☘️ Telegram
 
 [🔥 ANONYMOUS DEVALOPERS 🇱🇰](https://t.me/ehivpnssh)<br>
-[🔥 Single Developers </> ](https://t.me/SingleDevelopers) Corporation ©️
+[🔥 SD BOTS </> ](https://t.me/SDBOTs_inifinity) 
 
 ##
