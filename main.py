@@ -13,7 +13,7 @@ import logging
 
 
 # TikTok Downloader API
-API = 'https://api.single-developers.software/tiktok?url='
+API = 'https://api.sdbots.tk/tiktok?url='
 
 # Your BOT Token
 BOT_TOKEN = os.getenv("BOT_TOKEN")
@@ -53,7 +53,7 @@ def Download_Video(Link,update, context):
 
     # Getting Download Links Using API
     try:
-       req=requests.get(API+Link).json()
+       req=requests.get(API).json()
        no_watermark=req['no_watermark']
        watermark= req['watermark']
        print('Download Links Generated \n\n\n'+str(req)+'\n\n\n')
